@@ -1,4 +1,4 @@
-# Hi, I'm Wahyu Lisa 👋
+# Hi, I'm Lisaa 👋
 
 ### Rekayasa Perangkat Lunak | Frontend Development
 

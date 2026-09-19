@@ -1,4 +1,4 @@
-# Hi, I'm Lisaa 👋
+# Hi, I'm Lisaa 
 
 ### Rekayasa Perangkat Lunak | Frontend Development
 
@@ -7,7 +7,7 @@ antarmuka web yang responsif serta mudah digunakan. Memiliki kemampuan
 dalam frontend dan backend development serta antusias untuk terus belajar
 dan berkembang.
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 - HTML
@@ -26,11 +26,11 @@ dan berkembang.
 - Postman
 - XAMPP
 
-## 🚀 Projects
+## Projects
 
 - Amanah Elektronik
 - Kost Bunda
 
-## 📫 Contact
+## Contact
 
 Email: wahyulisam@gmail.com

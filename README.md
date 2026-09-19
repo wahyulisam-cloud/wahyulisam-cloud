@@ -33,4 +33,4 @@ dan berkembang.
 
 ## 📫 Contact
 
-Email: emailkamu@gmail.com
+Email: wahyulisam@gmail.com

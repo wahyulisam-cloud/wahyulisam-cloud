@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Wahyu Lisa 👋
 
-<!--
-**wahyulisam-cloud/wahyulisam-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rekayasa Perangkat Lunak | Frontend Development
 
-Here are some ideas to get you started:
+Siswa RPL dengan minat utama pada frontend development dan pembuatan
+antarmuka web yang responsif serta mudah digunakan. Memiliki kemampuan
+dalam frontend dan backend development serta antusias untuk terus belajar
+dan berkembang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Backend
+- PHP
+- Laravel
+- MySQL
+- RESTful API
+
+### Tools
+- Visual Studio Code
+- Postman
+- XAMPP
+
+## 🚀 Projects
+
+- Amanah Elektronik
+- Kost Bunda
+
+## 📫 Contact
+
+Email: emailkamu@gmail.com

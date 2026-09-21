@@ -1,8 +1,8 @@
 # Hi, I'm Lisaa 
 
-### Rekayasa Perangkat Lunak | Frontend Development
+### Rekayasa Perangkat Lunak 
 
-Siswa RPL dengan minat utama pada frontend development dan pembuatan
+Siswa dengan minat utama pada frontend development dan pembuatan
 antarmuka web yang responsif serta mudah digunakan. Memiliki kemampuan
 dalam frontend dan backend development serta antusias untuk terus belajar
 dan berkembang.
